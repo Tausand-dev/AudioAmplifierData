@@ -11,3 +11,6 @@
   - [Electret microphone](https://www.sparkfun.com/products/8635)
 - [adafruit Electret Microphone Amplifier](https://www.adafruit.com/product/1063)
   - [Electret microphone](https://cdn-shop.adafruit.com/datasheets/CMA-4544PF-W.pdf)
+- Sigma
+  - [DFR0034](https://www.sigmaelectronica.net/producto/dfr0034/)
+  - [SEN0045](https://www.sigmaelectronica.net/producto/sen0045/)
